@@ -1,6 +1,28 @@
-.city {
-  background-color: aquamarine;
+.cities {
   margin: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  list-style: none;
+  justify-content: center;
+}
+
+.city {
+  background-color: #7b66ff;
+  display: flex;
+  justify-content: center;
+  width: 40%;
+  padding: 5px;
+  margin: 10px;
+  border-radius: 4px;
+}
+
+.city > * {
+  color: #e8e4ff;
+  text-decoration: none;
+}
+
+.city-details {
   display: flex;
   flex-direction: column;
   align-items: center;
