@@ -2,3 +2,21 @@
   width: 80%;
   height: 80%;
 }
+
+.go-back {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  width: 35px;
+}
+
+section {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  margin: 50px;
+  padding: 40px;
+  background-color: #0a0141;
+  color: #e8e4ff;
+  border-radius: 4px;
+}
