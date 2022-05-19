@@ -1,11 +1,10 @@
 # WeatherApp
 
-> This repository contains React Redux Template.
+> In this Weather App, real-time weather data is fetched through Open Weather Map API. The application will allow users to get all weather updates of any city.
 
 ## Get Started
  * [Netlify Live](https://weatherapp-raoakif.netlify.app/)
  * [Demo Live](https://www.loom.com/share/049def9edae24355889b07c33203ea70)
-
 
 # Getting Started with Create React App
 ### Prerequisites
@@ -45,6 +44,12 @@ npm run build
 
 ### Deployment
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/RaoAkif/WeatherApp)
+
+
+## API
+This project involves Open Weather Map API.
+- [Open Weather Map API](https://openweathermap.org/)
+
 
 ## Authors
 
