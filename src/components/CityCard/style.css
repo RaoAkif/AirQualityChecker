@@ -1,0 +1,68 @@
+.cityCard {
+  width: 80%;
+  height: 80%;
+}
+
+.go-back {
+  position: absolute;
+  top: 20px;
+  left: 10px;
+  width: 35px;
+}
+
+section {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  padding: 40px;
+  background-color: #00bbd6;
+  color: #e8e4ff;
+  position: absolute;
+  bottom: inherit;
+  border-radius: 15px 15px 0 0;
+  height: 88%;
+  width: 79%;
+}
+
+.city-weather-details {
+  position: absolute;
+  bottom: 0;
+  height: 76%;
+  width: 100%;
+  background-color: white;
+  border-radius: 20px 20px 0 0;
+  padding-top: 4px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.the-city {
+  font-size: 12px;
+  text-align: right;
+  margin-bottom: 15px;
+}
+
+.temperature {
+  font-size: 28px;
+  text-align: center;
+  margin: 16px 0 8px 0;
+}
+
+.temprature-heading,
+.wind-condition {
+  font-size: 35px;
+}
+
+.sunrise {
+  float: right;
+}
+
+.m-0 {
+  margin: 0;
+}
+
+.f-12 {
+  font-size: 18px;
+}

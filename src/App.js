@@ -1,10 +1,8 @@
-import './App.css';
+import RouterConfig from './components/RouterConfig/RouterConfig';
 
 function App() {
   return (
-    <div>
-      Hello World
-    </div>
+    <RouterConfig />
   );
 }
 
