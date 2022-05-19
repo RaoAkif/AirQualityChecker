@@ -6,7 +6,6 @@ import React from 'react';
 // import { fetchCities } from '../../redux/city/citySlice';
 
 import City from '../../components/City/City';
-import './style.css';
 
 export default function Home() {
   // const cities = useSelector((state) => state.cities);

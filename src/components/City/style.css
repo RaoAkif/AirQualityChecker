@@ -7,14 +7,30 @@
   justify-content: center;
 }
 
+.cities-card {
+  position: absolute;
+  bottom: 0px;
+  height: 76%;
+  width: 100%;
+  background-color: #f0ecf1;
+  border-radius: 20px 20px 0 0;
+  padding-top: 4px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
 .city {
-  background-color: #7b66ff;
+  background-color: #00BBD6;
   display: flex;
   justify-content: center;
-  width: 40%;
-  padding: 5px;
-  margin: 10px;
-  border-radius: 4px;
+  align-items: center;
+  margin: 5px;
+  border-radius: 20px;
+  width: 70%;
+  height: 100px;
+  font-size: 18px;
 }
 
 .city > * {
@@ -24,6 +40,6 @@
 
 .city-details {
   display: flex;
-  flex-direction: column;
+  /* flex-direction: column; */
   align-items: center;
 }
