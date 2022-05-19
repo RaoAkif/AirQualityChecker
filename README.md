@@ -1,11 +1,10 @@
-# Project Name
+# WeatherApp
 
-> This repository contains React Redux Template.
+> In this Weather App, real-time weather data is fetched through Open Weather Map API. The application will allow users to get all weather updates of any city.
 
 ## Get Started
- * [Netlify Live](https://PROJECT_NAME-raoakif.netlify.app/)
- * [Heroku Live](https://PROJECT_NAME-raoakif.herokuapp.com/)
-
+ * [Netlify Live](https://weatherapp-raoakif.netlify.app/)
+ * [Demo Live](https://www.loom.com/share/049def9edae24355889b07c33203ea70)
 
 # Getting Started with Create React App
 ### Prerequisites
@@ -13,11 +12,11 @@
 
 ### Setup
 ```
-git clone git@github.com:RaoAkif/PROJECT_NAME.git
+git clone git@github.com:RaoAkif/WeatherApp.git
 ```
 ### Install
 ```
-cd PROJECT_NAME
+cd WeatherApp
 ```
 ```
 npm i
@@ -44,7 +43,13 @@ npm run build
 ```
 
 ### Deployment
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/RaoAkif/PROJECT_NAME)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/RaoAkif/WeatherApp)
+
+
+## API
+This project involves Open Weather Map API.
+- [Open Weather Map API](https://openweathermap.org/)
+
 
 ## Authors
 
@@ -66,9 +71,10 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- By Air-Quality-App-UI-Kit, [Capi Design](http://capi.design)
+OR Buy it from
+- Themeforest:
+Airquaty: Air Quality App UI Kit [Buy a theme](https://themeforest.net/item/airquaty-air-quality-app-ui-kit/28791636#:~:text=Air%20Quality%20is%20an%20application,time%20air%20quality%20index%2C%20etc)
 
 ## 📝 License
 
