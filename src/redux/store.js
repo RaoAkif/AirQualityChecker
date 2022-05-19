@@ -1,8 +1,9 @@
 import { configureStore } from '@reduxjs/toolkit';
+// import thunk from 'redux-thunk';
+// import { logger } from 'redux-logger';
+import weatherReducer from './weather/weatherSlice';
 
-const store = configureStore({
-  reducer: {
-  },
+export default configureStore({
+  reducer: weatherReducer,
+  // middleware: [thunk, logger],
 });
-
-export default store;
