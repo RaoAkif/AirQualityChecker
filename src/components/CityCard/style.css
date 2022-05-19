@@ -15,7 +15,7 @@ section {
   flex-direction: column;
   text-align: left;
   padding: 40px;
-  background-color: #00BBD6;
+  background-color: #00bbd6;
   color: #e8e4ff;
   position: absolute;
   bottom: inherit;
@@ -26,7 +26,7 @@ section {
 
 .city-weather-details {
   position: absolute;
-  bottom: 0px;
+  bottom: 0;
   height: 76%;
   width: 100%;
   background-color: white;
@@ -50,7 +50,8 @@ section {
   margin: 16px 0 8px 0;
 }
 
-.temprature-heading, .wind-condition {
+.temprature-heading,
+.wind-condition {
   font-size: 35px;
 }
 
