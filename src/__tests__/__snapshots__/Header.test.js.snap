@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="header"
+>
+  <img
+    alt="header banner"
+    src="header.png"
+  />
+  <div
+    className="date-time"
+  >
+    <h2>
+      10:23:57 PM
+    </h2>
+    <h4>
+      5/19/2022
+    </h4>
+  </div>
+</div>
+`;
