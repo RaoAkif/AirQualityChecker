@@ -71,9 +71,10 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- By Air-Quality-App-UI-Kit, [Capi Design](http://capi.design)
+OR Buy it from
+- Themeforest:
+Airquaty: Air Quality App UI Kit [Buy a theme](https://themeforest.net/item/airquaty-air-quality-app-ui-kit/28791636#:~:text=Air%20Quality%20is%20an%20application,time%20air%20quality%20index%2C%20etc)
 
 ## 📝 License
 
