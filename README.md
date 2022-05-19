@@ -4,7 +4,7 @@
 
 ## Get Started
  * [Netlify Live](https://weatherapp-raoakif.netlify.app/)
- * [Demo Live]([https://weatherapp-raoakif.netlify.app/](https://www.loom.com/share/049def9edae24355889b07c33203ea70))
+ * [Demo Live](https://www.loom.com/share/049def9edae24355889b07c33203ea70)
 
 
 # Getting Started with Create React App
