@@ -34,7 +34,6 @@ function CityCard() {
   const date2 = new Date(sunset * 1000);
   const hours2 = date2.getHours();
   const minutes2 = `0${date2.getMinutes()}`;
-
   const formattedTime2 = `${hours2} : ${minutes2.substr(1, 2)}`;
 
   return (
