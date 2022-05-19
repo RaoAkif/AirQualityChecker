@@ -1,10 +1,9 @@
-# Project Name
+# WeatherApp
 
 > This repository contains React Redux Template.
 
 ## Get Started
- * [Netlify Live](https://PROJECT_NAME-raoakif.netlify.app/)
- * [Heroku Live](https://PROJECT_NAME-raoakif.herokuapp.com/)
+ * [Netlify Live](https://weatherapp-raoakif.netlify.app/)
 
 
 # Getting Started with Create React App
@@ -13,11 +12,11 @@
 
 ### Setup
 ```
-git clone git@github.com:RaoAkif/PROJECT_NAME.git
+git clone git@github.com:RaoAkif/WeatherApp.git
 ```
 ### Install
 ```
-cd PROJECT_NAME
+cd WeatherApp
 ```
 ```
 npm i
@@ -44,7 +43,7 @@ npm run build
 ```
 
 ### Deployment
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/RaoAkif/PROJECT_NAME)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/RaoAkif/WeatherApp)
 
 ## Authors
 
